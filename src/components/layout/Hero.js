@@ -3,7 +3,7 @@ import Right from "../icons/Right";
 
 export default function Her0(){
     return(
-        <section className="hero">
+        <section className="mt-4 hero">
             <div className="py-12">
             <h1 className="text-4xl font-semibold">Welcome to<br></br> Ceylon  <span className="text-primary">Pizza</span></h1>
             <p className="mt-4 text-sm text-gray-500">Indulge in the art of flavor with our handcrafted pizzas, made with love and the finest ingredients.</p>   
